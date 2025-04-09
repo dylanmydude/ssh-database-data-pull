@@ -1,0 +1,4 @@
+db_config.env
+sites.txt
+all_users.csv
+failures.log
